@@ -4,9 +4,11 @@
 <h2><b>Project Overview</b></h2>
 <br>
 The objective of this project was to develop a responsive and interactive website as part of a task round for a batch system assignment. The primary goals were to ensure cross-device compatibility and a seamless user experience across various screen sizes, using HTML, CSS, and JavaScript.
-<br>
-The website is built using HTML, CSS, and JavaScript and is intended to be run in a web browser. It can also be served using a web server.
+<br><br>
 
+The website is built using HTML, CSS, and JavaScript and is intended to be run in a web browser. It can also be served using a web server.
+<br><br>
+Live - 
 
 <br>
 <h2><b>Getting Started </b></h2>
@@ -29,7 +31,9 @@ The website includes the following features:
 3.User Friendly <br>
 4.Responsive design<br>
 5.Smooth Motion<br>
+6.Interactive Elements
+7.Scroll Reveal
 
 <b><h2>Screenshot</h2></b>
 
-<img src="ss.png">
+<img src="ss-batch-sys.png">
