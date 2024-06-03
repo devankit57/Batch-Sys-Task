@@ -8,7 +8,7 @@ The objective of this project was to develop a responsive and interactive websit
 
 The website is built using HTML, CSS, and JavaScript and is intended to be run in a web browser. It can also be served using a web server.
 <br><br>
-Live - 
+Live - https://batch-sys-task.vercel.app/
 
 <br>
 <h2><b>Getting Started </b></h2>
